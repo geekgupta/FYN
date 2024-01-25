@@ -1,8 +1,6 @@
-```markdown
 # Pricing Module v2
 $Price = (DBP + (Dn * DAP)) + (Tn * TMF) + WC$) *where D → Additional distance traveled
 
-## Implementation
 ### How to Run
 
 1. Clone the repository:
